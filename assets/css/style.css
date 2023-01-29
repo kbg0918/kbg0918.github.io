@@ -1233,9 +1233,19 @@ section {
   font-size: 13px;
 }
 
-#git-adr{
+.git-adr{
   color: black;
 }
-#git-adr:hover{
+.git-adr:hover{
   color: #7292b6;
+}
+.contect-img{
+  position: absolute;
+  width: 44px;
+  height: 44px;
+}
+
+.span-lo{
+  position: relative;
+  left: 15%;
 }
